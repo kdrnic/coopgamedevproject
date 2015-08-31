@@ -4,6 +4,8 @@ The proposal is for a collective game project, in #ludumdare, whose main driving
 
 See TL;DR section for informations on early contribution
 
+NEW! Please answer form #1 about most of the stuff discussed below http://goo.gl/forms/bNiIjNQT2S
+
 A FEW POINTS TO BE DECIDED EARLY
 --Language:
 To really be inclusive and dynamic, I believe Javascript and Lua are the best options, thus, one of those must be chosen. Both have dynamic typing which is nice because with static typing you can't really patch stuff and hold them together with duct tape. Javascript is hated by some but runs in browsers which is nice. Lua is less hated and has delicious coroutines, but then again it also has 1 indexed arrays made by the devil himself. With rnlf's Motor2D Löve can be potentially used on the browser, which is nice.
