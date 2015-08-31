@@ -47,4 +47,7 @@ HOW TO JOIN
 Since there isn't actually any project yet, please express your desire to participate to drnick and manifest your opinions on the points above (see TL; DR section). We can also agree on having a IRC channel, and then I can create the repository and we can hopefully start.
 I'd love the project to be happening by mid September, an arbitrary date. So, we shall organize and debate ourselves in the upcoming two weeks.
 
+ON CAPITALISM
+This shall be intended as a strictly non-commercial venture, which may have repercussions on license choices.
+
 TL;DR: At least tell drnick you like this idea (if you do like this idea of course). Watch this repo so you are notified of news. To opinate and give suggestions, clone the repo, add a file with your ideas and do pull request.
