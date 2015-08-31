@@ -2,6 +2,8 @@ GOOD MORNING, PEOPLE!
 
 The proposal is for a collective game project, in #ludumdare, whose main driving idea is to be developed by anyone, have little to no direction, accept as many contributions as possible (all that are not disruptive) and go with the result in an ever increasing mess of a game.
 
+See TL;DR section for informations on early contribution
+
 A FEW POINTS TO BE DECIDED EARLY
 --Language:
 To really be inclusive and dynamic, I believe Javascript and Lua are the best options, thus, one of those must be chosen. Both have dynamic typing which is nice because with static typing you can't really patch stuff and hold them together with duct tape. Javascript is hated by some but runs in browsers which is nice. Lua is less hated and has delicious coroutines, but then again it also has 1 indexed arrays made by the devil himself. With rnlf's Motor2D Löve can be potentially used on the browser, which is nice.
@@ -40,7 +42,7 @@ This is a potential subject of heated debate. Options include: GPL, MIT and the 
 The possibility of online multiplayer is ridiculous, because there is around one third of a person actually willing to write networking code in all of ludum dare. However, the game can support local multiplayer. IF, AND ONLY IF, some small but significant care is taken in programming this will be possible. This is mostly to have keys be configurable, not to keep player state in globals, etc.
 
 HOW TO JOIN
-Since there isn't actually any project yet, please express your desire to participate to drnick and manifest your opinions on the points above (preferably on a text document, pastebin links favoured). We can also agree on having a IRC channel, and then I can create the repository and we can hopefully start.
+Since there isn't actually any project yet, please express your desire to participate to drnick and manifest your opinions on the points above (see TL; DR section). We can also agree on having a IRC channel, and then I can create the repository and we can hopefully start.
 I'd love the project to be happening by mid September, an arbitrary date. So, we shall organize and debate ourselves in the upcoming two weeks.
 
-TL;DR: At least tell drnick you like this idea (if you do like this idea of course).
+TL;DR: At least tell drnick you like this idea (if you do like this idea of course). Watch this repo so you are notified of news. To opinate and give suggestions, clone the repo, add a file with your ideas and do pull request.
