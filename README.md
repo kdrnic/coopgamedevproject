@@ -1,5 +1,8 @@
 The proposal is for a collective game project whose main driving idea is to be developed by anyone, have little to no direction, accept as many contributions as possible (all that are not disruptive) and go with the result in an ever increasing mess of a game, a glorification of chaos.
 
+IRC channel: #coopgamedevproject @ irc.afternet.org
+BTW I don't know the IRC nickname of all the repository watchers
+
 Survey #2 http://goo.gl/forms/27gPJq8TSl
 Results at https://docs.google.com/spreadsheets/d/1yA-o72M3bOl35cUgQQAwr2Z1budG0j-2pD59yJCKksE/edit#gid=873458765
 
