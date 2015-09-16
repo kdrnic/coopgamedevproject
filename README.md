@@ -17,3 +17,5 @@ Programming will begin soon, and for best results as a codebase is created here 
 * Use Issues or Wiki to discuss ideas for the project
 * We can also maintain our own IRC channel later
 * I'd love the project to be happening by mid September or sooner (and yes this is completely arbitrary)
+
+:D
